@@ -1,5 +1,6 @@
 ﻿namespace MonkeyFinder.ViewModel;
 
-public class BaseViewModel
-{
+[ObservableObject]
+public partial class BaseViewModel {
+
 }
